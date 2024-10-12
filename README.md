@@ -59,3 +59,7 @@ Before you start, make sure you have the following installed:
       npm install express mysql nodemon
 
 ### Note: For the application to work correctly, you need to run the servers for each webpage individually (college, college_list, exams). When one server is running, you must close the terminal in Visual Studio Code before starting another.
+
+## Screenshot
+![Screenshot](https://github.com/DotSahilR/CampusConnect/blob/main/output.png)
+
