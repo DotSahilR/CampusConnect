@@ -42,13 +42,13 @@ Before you start, make sure you have the following installed:
 2. Install the Live Server extension for Visual Studio Code if you haven’t already.
 3. Start Live Server by right-clicking on your index.html file and selecting "Open with Live Server".
 
-###Project Structure
+### Project Structure
 - frontend/ - Contains HTML, CSS, and JavaScript files for the client-side.
 - server/ - Contains the Node.js backend code.
 - app.js - The main file where the Node.js server is defined.
 - package.json - Lists Node.js dependencies and scripts.
 
-###Dependencies
+### Dependencies
 - Node.js Dependencies
 - express - Web framework for Node.js.
 - mysql - MySQL client for Node.js.
